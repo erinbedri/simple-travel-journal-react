@@ -87,3 +87,19 @@ body {
 .experience--description {
   font-size: 10px;
 }
+
+.mode-btn {
+  background-color: white;
+  color: black;
+  font-size: 12px;
+  padding: 4px 8px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.darkMode {
+  background-color: black;
+  color: white;
+  font-family: "Inter", sans-serif;
+}

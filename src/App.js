@@ -9,7 +9,7 @@ function App() {
   ));
   return (
     <>
-      <Header />
+      <Header darkMode={false} />
       <section className="experiences">{experiences}</section>
     </>
   );
